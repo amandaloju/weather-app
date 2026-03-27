@@ -2,6 +2,8 @@
 
 A simple React weather application that allows users to search for weather information by city name.
 
+https://main.d2dfbowau92v3a.amplifyapp.com/
+
 ## Features
 
 - Search for weather by city name
